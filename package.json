@@ -1,7 +1,7 @@
 {
   "name": "array-interlace",
   "description": "Interlace the contents of an array",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {},
   "scripts": {
     "lint": "./node_modules/.bin/jshint .",
